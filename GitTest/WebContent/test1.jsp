@@ -9,6 +9,10 @@
 <body>
 <h1>test1.jsp</h1>
 <h2>수정된 버전</h2>
+<<<<<<< HEAD
 <h3>client</h3>
+=======
+<h3>server</h3>
+>>>>>>> refs/remotes/choose_remote_name/master
 </body>
 </html>
